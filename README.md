@@ -14,7 +14,6 @@ This project uses a **deep learning model based on the ResNet18 architecture** t
 * PyTorch
 * Streamlit
 * Deep Learning
-* Computer Vision
 
 ---
 
