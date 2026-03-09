@@ -31,12 +31,17 @@ This project uses a **deep learning model based on the ResNet18 architecture** t
 lithography-hotspot-detection
 │
 ├── app.py
-├── hotspot_model.pth
 ├── training.ipynb
 ├── requirements.txt
 └── README.md
 
 ---
+## Model Weights
+
+The trained model file is large and not included in this repository.
+
+You can download it here:
+https://drive.google.com/file/d/1ALoNHusMCK5y00_jJYFqp1xJDOA4zaQv/view?usp=drive_link
 
 ## How to Run the Project
 
