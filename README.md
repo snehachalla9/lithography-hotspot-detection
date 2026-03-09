@@ -71,6 +71,15 @@ streamlit run app.py
 4. The system predicts **hotspot** or **non-hotspot**
 
 ---
+## Demo
+
+### Hotspot Detection Example
+
+![Demo 1](images/demo1.png)
+
+### Another Example
+
+![Demo 2](images/demo1-2.png)
 
 ## Future Improvements
 
